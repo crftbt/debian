@@ -31,4 +31,6 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 pip install auto-editor
 
 #### back up ffmpeg and replace with latest
+https://johnvansickle.com/ffmpeg/
+
 https://github.com/BtbN/FFmpeg-Builds/releases
