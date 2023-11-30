@@ -12,3 +12,14 @@ sudo apt install flatpak
 
 sudo apt install gnome-software-plugin-flatpak # for functionality in Gnome Software
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo 
+
+#### install through Software/flatpak
+* brave
+* gimp
+* tribler
+* vlc
+* nemo
+* thunar
+
+#### install through apt
+htop
