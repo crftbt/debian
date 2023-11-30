@@ -23,3 +23,7 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 
 #### install through apt
 htop
+python3-pip
+
+#### installing through pip
+pip install auto-editor
