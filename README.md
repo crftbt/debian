@@ -20,6 +20,7 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 * vlc
 * nemo
 * thunar
+* mission center
 
 #### install through apt
 * htop
