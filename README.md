@@ -22,9 +22,13 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 * thunar
 
 #### install through apt
-htop
-python3-pip
-python3-venv
+* htop
+* python3-pip
+* python3-venv
+* ffmpeg
 
 #### installing through pip
 pip install auto-editor
+
+#### back up ffmpeg and replace with latest
+https://github.com/BtbN/FFmpeg-Builds/releases
